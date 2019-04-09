@@ -1,0 +1,66 @@
+{
+  "id": 1326648841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.88683,-19.02967,-169.88683,-19.02967",
+    "geom:latitude":-19.02967,
+    "geom:longitude":-169.88683,
+    "gn:asciiname":"Motutapu",
+    "gn:country_code":"NU",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11185964,
+    "gn:latitude":-19.02967,
+    "gn:longitude":-169.88683,
+    "gn:modification_date":"2016-06-28",
+    "gn:name":"Motutapu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Niue",
+    "iso:country":"NU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632493,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11185964
+    },
+    "wof:country":"NU",
+    "wof:geomhash":"af8a17c8a3382fe1a3e186e91b7a54a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632493,
+            "empire_id":136253053,
+            "locality_id":1326648841,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326648841,
+    "wof:lastmodified":1536815162,
+    "wof:name":"Motutapu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.88683,
+    -19.02967,
+    -169.88683,
+    -19.02967
+],
+  "geometry": {"coordinates":[-169.88683,-19.02967],"type":"Point"}
+}

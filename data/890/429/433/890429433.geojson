@@ -1,0 +1,67 @@
+{
+  "id": 890429433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.9,-19.11667,-169.9,-19.11667",
+    "geom:latitude":-19.11667,
+    "geom:longitude":-169.9,
+    "gn:country":"NU",
+    "gn:fcode":"PPL",
+    "gn:pop":60,
+    "iso:country":"NU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Fatiau",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632493,
+        85681315,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036274,
+        "gp:id":56618573,
+        "qs:id":97121
+    },
+    "wof:country":"NU",
+    "wof:created":1469051814,
+    "wof:geomhash":"ddb39f4aafd50faf2c93c1eb6a107433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632493,
+            "empire_id":136253053,
+            "locality_id":890429433,
+            "region_id":85681315
+        }
+    ],
+    "wof:id":890429433,
+    "wof:lastmodified":1509998397,
+    "wof:name":"Fatiau",
+    "wof:parent_id":85681315,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-nu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.9,
+    -19.11667,
+    -169.9,
+    -19.11667
+],
+  "geometry": {"coordinates":[-169.90000000000001,-19.11667],"type":"Point"}
+}

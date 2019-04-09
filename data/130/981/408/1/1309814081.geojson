@@ -1,0 +1,66 @@
+{
+  "id": 1309814081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.89957,-19.04403,-169.89957,-19.04403",
+    "geom:latitude":-19.04403,
+    "geom:longitude":-169.89957,
+    "gn:asciiname":"Toa",
+    "gn:country_code":"NU",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11185981,
+    "gn:latitude":-19.04403,
+    "gn:longitude":-169.89957,
+    "gn:modification_date":"2016-06-28",
+    "gn:name":"Toa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Niue",
+    "iso:country":"NU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632493,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11185981
+    },
+    "wof:country":"NU",
+    "wof:geomhash":"63a633eeaae53d6e2c08f6a0523cb22a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632493,
+            "empire_id":136253053,
+            "locality_id":1309814081,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309814081,
+    "wof:lastmodified":1536919654,
+    "wof:name":"Toa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.89956999999995,
+    -19.04403,
+    -169.89956999999995,
+    -19.04403
+],
+  "geometry": {"coordinates":[-169.89956999999995,-19.04403],"type":"Point"}
+}

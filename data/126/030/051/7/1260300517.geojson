@@ -1,0 +1,66 @@
+{
+  "id": 1260300517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.91138,-19.12449,-169.91138,-19.12449",
+    "geom:latitude":-19.12449,
+    "geom:longitude":-169.91138,
+    "gn:asciiname":"Avatele",
+    "gn:country_code":"NU",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630015,
+    "gn:latitude":-19.12449,
+    "gn:longitude":-169.91138,
+    "gn:modification_date":"2016-06-28",
+    "gn:name":"Avatele",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Niue",
+    "iso:country":"NU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632493,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630015
+    },
+    "wof:country":"NU",
+    "wof:geomhash":"1f344a2b45498396f8708c7301d0e140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632493,
+            "empire_id":136253053,
+            "locality_id":1260300517,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260300517,
+    "wof:lastmodified":1536689030,
+    "wof:name":"Avatele",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.91138,
+    -19.12449,
+    -169.91138,
+    -19.12449
+],
+  "geometry": {"coordinates":[-169.91138000000001,-19.12449],"type":"Point"}
+}

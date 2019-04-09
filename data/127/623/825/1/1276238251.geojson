@@ -1,0 +1,67 @@
+{
+  "id": 1276238251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.87996,-19.06918,-169.87996,-19.06918",
+    "geom:latitude":-19.06918,
+    "geom:longitude":-169.87996,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Matavao",
+    "gn:country_code":"NU",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036240,
+    "gn:latitude":-19.06918,
+    "gn:longitude":-169.87996,
+    "gn:modification_date":"2016-06-28",
+    "gn:name":"Matavao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Niue",
+    "iso:country":"NU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632493,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036240
+    },
+    "wof:country":"NU",
+    "wof:geomhash":"d8f18c83adfb60978aec88011667e18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632493,
+            "empire_id":136253053,
+            "locality_id":1276238251,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276238251,
+    "wof:lastmodified":1536906225,
+    "wof:name":"Matavao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.87996,
+    -19.06918,
+    -169.87996,
+    -19.06918
+],
+  "geometry": {"coordinates":[-169.87996000000001,-19.06918],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226762359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.78799,-19.06703,-169.78799,-19.06703",
+    "geom:latitude":-19.06703,
+    "geom:longitude":-169.78799,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vili",
+    "gn:country_code":"NU",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036203,
+    "gn:latitude":-19.06703,
+    "gn:longitude":-169.78799,
+    "gn:modification_date":"2016-06-28",
+    "gn:name":"Vili",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Niue",
+    "iso:country":"NU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632493,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036203
+    },
+    "wof:country":"NU",
+    "wof:geomhash":"e88d6c06809fad9fe2126806a3cf274c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632493,
+            "empire_id":136253053,
+            "locality_id":1226762359,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226762359,
+    "wof:lastmodified":1536691714,
+    "wof:name":"Vili",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.78798999999995,
+    -19.06703,
+    -169.78798999999995,
+    -19.06703
+],
+  "geometry": {"coordinates":[-169.78798999999995,-19.06703],"type":"Point"}
+}

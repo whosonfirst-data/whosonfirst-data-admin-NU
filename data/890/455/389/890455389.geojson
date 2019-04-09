@@ -1,0 +1,96 @@
+{
+  "id": 890455389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.83333,-18.93333,-169.83333,-18.93333",
+    "geom:latitude":-18.93333,
+    "geom:longitude":-169.83333,
+    "gn:country":"NU",
+    "gn:fcode":"PPL",
+    "gn:pop":129,
+    "iso:country":"NU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u0442\u0430\u043b\u0430\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Mutalau"
+    ],
+    "name:eng_x_preferred":[
+        "Mutalau"
+    ],
+    "name:fre_x_preferred":[
+        "Mutalau"
+    ],
+    "name:hun_x_preferred":[
+        "Mutalau"
+    ],
+    "name:ita_x_preferred":[
+        "Mutalau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30bf\u30e9\u30a6"
+    ],
+    "name:pol_x_preferred":[
+        "Mutalau"
+    ],
+    "name:por_x_preferred":[
+        "Mutalau"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0442\u0430\u043b\u0430\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Mutalau"
+    ],
+    "qs:name":"Mutalau",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":635,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036234,
+        "gp:id":1064260,
+        "qs:id":97114,
+        "wd:id":"Q2552363",
+        "wk:page":"Mutalau"
+    },
+    "wof:country":"NU",
+    "wof:created":1469052945,
+    "wof:geomhash":"d9e37e294fb7a7cfe6244911b05a4f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890455389,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890455389,
+    "wof:lastmodified":1527735398,
+    "wof:name":"Mutalau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-nu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.83333,
+    -18.93333,
+    -169.83333,
+    -18.93333
+],
+  "geometry": {"coordinates":[-169.83332999999999,-18.93333],"type":"Point"}
+}

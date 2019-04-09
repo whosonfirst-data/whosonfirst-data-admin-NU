@@ -1,0 +1,138 @@
+{
+  "id": 85681315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.018931,
+    "geom:area_square_m":221263975.868117,
+    "geom:bbox":"-169.95042884,-19.1427548155,-169.782907681,-18.9640438776",
+    "geom:latitude":-19.04892,
+    "geom:longitude":-169.869346,
+    "gn:id":"",
+    "iso:country":"NU",
+    "lbl:latitude":-19.045956,
+    "lbl:longitude":-169.862565,
+    "mps:latitude":-19.045956,
+    "mps:longitude":-169.862565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:eng_x_preferred":[
+        "Niue"
+    ],
+    "name:eng_x_unknown":[
+        "NU"
+    ],
+    "name:eng_x_variant":[
+        "Niuean"
+    ],
+    "name:fra_x_colloquial":[
+        "Nioue"
+    ],
+    "name:fra_x_preferred":[
+        "Niou\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30a6\u30a8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c8\uc6b0\uc5d0"
+    ],
+    "name:nld_x_preferred":[
+        "Niu\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ebd\u57c3"
+    ],
+    "qs:a0":"Niue",
+    "qs:a0_lc":"NU",
+    "qs:a1":"Niue",
+    "qs:a1_lc":"NIU-5481",
+    "qs:adm0":"Niue",
+    "qs:adm0_a3":"NIU",
+    "qs:gn_id":0,
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Admin-1 aggregation",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-09-10",
+    "statoids:area_km":"260",
+    "statoids:area_mi":"101",
+    "statoids:as_of_date":"2011-09-10",
+    "statoids:capital":"Alofi",
+    "statoids:country":"NU",
+    "statoids:gec":"NE",
+    "statoids:hasc":"NU.NU",
+    "statoids:iso":"NU",
+    "statoids:name":"Niue",
+    "statoids:population":"1611",
+    "statoids:timezone":"-11",
+    "statoids:type":"autonomous state",
+    "wd:wordcount":6107,
+    "wof:belongsto":[
+        102191583,
+        85632493,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"NE",
+        "gp:id":23424904,
+        "hasc:id":"NU.NU",
+        "iso:id":"NU-NU",
+        "qs:id":897038,
+        "wd:id":"Q34020"
+    },
+    "wof:country":"NU",
+    "wof:geomhash":"978ecbd3b6e172e35f74b370f6a4f117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632493,
+            "empire_id":136253053,
+            "region_id":85681315
+        }
+    ],
+    "wof:id":85681315,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "niu"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "niu"
+    ],
+    "wof:lastmodified":1536616806,
+    "wof:name":"Niue",
+    "wof:parent_id":85632493,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"autonomous state",
+    "wof:population":1611,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nu",
+    "wof:superseded_by":[
+        85632493
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.95042884011886,
+    -19.14275481548231,
+    -169.78290768084477,
+    -18.96404387762283
+],
+  "geometry": {"coordinates":[[[-169.85114498575246,-18.96510182029272],[-169.82530676999141,-18.96795012789602],[-169.82262122259132,-18.97258879953341],[-169.7942602196334,-19.04713307063463],[-169.78290768084477,-19.06894296664456],[-169.79686438648221,-19.07390715868837],[-169.80597896955376,-19.08196379998935],[-169.82384192546445,-19.10230885147229],[-169.86542721269569,-19.12965260158626],[-169.87299557158832,-19.12590911241557],[-169.88097083233802,-19.12908294042529],[-169.89891516790064,-19.14275481548231],[-169.90204830608442,-19.13298919069854],[-169.90998287700813,-19.12859465891631],[-169.92109127504227,-19.1280249977554],[-169.93370520653002,-19.12965260158626],[-169.93053137852027,-19.12639739392455],[-169.92796790329606,-19.1228166649571],[-169.92479407528631,-19.11931731564158],[-169.91942298048613,-19.11598072652924],[-169.92406165302285,-19.09937916511632],[-169.92625891801464,-19.09490325278284],[-169.95042884011886,-19.08733489389022],[-169.94770260289278,-19.06943124815353],[-169.92625891801464,-19.0375302060541],[-169.92796790329606,-19.03183359174682],[-169.93158932208951,-19.02654387749789],[-169.93439693896752,-19.02092864374185],[-169.93370520653002,-19.0136044247044],[-169.93024654883914,-19.00839609190609],[-169.9263809892912,-19.00741952888808],[-169.92182369730577,-19.00701262793041],[-169.91600501172189,-19.00310637765716],[-169.89582271954285,-18.96510182029272],[-169.86371822831356,-18.96404387762283],[-169.85114498575246,-18.96510182029272]]],"type":"Polygon"}
+}

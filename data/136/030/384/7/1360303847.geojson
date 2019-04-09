@@ -1,0 +1,67 @@
+{
+  "id": 1360303847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.84923,-19.07891,-169.84923,-19.07891",
+    "geom:latitude":-19.07891,
+    "geom:longitude":-169.84923,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nukufetau",
+    "gn:country_code":"NU",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036230,
+    "gn:latitude":-19.07891,
+    "gn:longitude":-169.84923,
+    "gn:modification_date":"2015-08-31",
+    "gn:name":"Nukufetau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Niue",
+    "iso:country":"NU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632493,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036230
+    },
+    "wof:country":"NU",
+    "wof:geomhash":"ffb1fdebf0df871309d61e0afca99ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632493,
+            "empire_id":136253053,
+            "locality_id":1360303847,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360303847,
+    "wof:lastmodified":1536628307,
+    "wof:name":"Nukufetau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.84923,
+    -19.07891,
+    -169.84923,
+    -19.07891
+],
+  "geometry": {"coordinates":[-169.84923000000001,-19.07891],"type":"Point"}
+}

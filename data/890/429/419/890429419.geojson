@@ -1,0 +1,91 @@
+{
+  "id": 890429419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.9,-18.95,-169.9,-18.95",
+    "geom:latitude":-18.95,
+    "geom:longitude":-169.9,
+    "gn:country":"NU",
+    "gn:fcode":"PPL",
+    "gn:pop":14,
+    "iso:country":"NU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5927\u6751"
+    ],
+    "name:dan_x_preferred":[
+        "Namukulu"
+    ],
+    "name:dut_x_preferred":[
+        "Namukulu"
+    ],
+    "name:eng_x_preferred":[
+        "Namukulu"
+    ],
+    "name:fre_x_preferred":[
+        "Namukulu"
+    ],
+    "name:ita_x_preferred":[
+        "Namukulu"
+    ],
+    "name:pol_x_preferred":[
+        "Namukulu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043c\u0443\u043a\u0443\u043b\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Namukulu"
+    ],
+    "name:unk_x_variant":[
+        "Namukulu"
+    ],
+    "qs:name":"Mamakula",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036246,
+        "gp:id":1064260,
+        "qs:id":97115,
+        "wd:id":"Q2592896"
+    },
+    "wof:country":"NU",
+    "wof:created":1469051814,
+    "wof:geomhash":"6abf5939303f0a271a95b0d6d1c31aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890429419,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890429419,
+    "wof:lastmodified":1553816394,
+    "wof:name":"Mamakula",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-nu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.9,
+    -18.95,
+    -169.9,
+    -18.95
+],
+  "geometry": {"coordinates":[-169.90000000000001,-18.95],"type":"Point"}
+}
