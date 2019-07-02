@@ -15,22 +15,19 @@
     "iso:country":"NU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5927\u6751"
-    ],
     "name:dan_x_preferred":[
-        "Namukulu"
-    ],
-    "name:dut_x_preferred":[
         "Namukulu"
     ],
     "name:eng_x_preferred":[
         "Namukulu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Namukulu"
     ],
     "name:ita_x_preferred":[
+        "Namukulu"
+    ],
+    "name:nld_x_preferred":[
         "Namukulu"
     ],
     "name:pol_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:unk_x_variant":[
         "Namukulu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6751"
     ],
     "qs:name":"Mamakula",
     "qs:photos_9r":0,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":890429419,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1561775178,
     "wof:name":"Mamakula",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
