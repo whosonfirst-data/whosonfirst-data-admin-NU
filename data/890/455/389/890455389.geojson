@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0442\u0430\u043b\u0430\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Mutalau"
+    ],
     "name:eng_x_preferred":[
         "Mutalau"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890455389,
-    "wof:lastmodified":1561775178,
+    "wof:lastmodified":1563278684,
     "wof:name":"Mutalau",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
