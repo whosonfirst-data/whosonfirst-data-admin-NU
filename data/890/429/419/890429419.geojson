@@ -11,10 +11,14 @@
     "geom:longitude":-169.9,
     "gn:country":"NU",
     "gn:fcode":"PPL",
-    "gn:pop":14,
+    "gn:population":14,
     "iso:country":"NU",
+    "lbl:bbox":"-169.92,-18.97,-169.88,-18.93",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:dan_x_preferred":[
         "Namukulu"
     ],
@@ -42,9 +46,6 @@
     "name:spa_x_preferred":[
         "Namukulu"
     ],
-    "name:unk_x_variant":[
-        "Namukulu"
-    ],
     "name:zho_x_preferred":[
         "\u5927\u6751"
     ],
@@ -58,7 +59,7 @@
     "wof:concordances":{
         "gn:id":4036246,
         "gp:id":1064260,
-        "qs:id":97115,
+        "qs_pg:id":97115,
         "wd:id":"Q2592896"
     },
     "wof:country":"NU",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":890429419,
-    "wof:lastmodified":1563278686,
+    "wof:lastmodified":1566672070,
     "wof:name":"Mamakula",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

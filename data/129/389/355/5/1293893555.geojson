@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Niue",
     "iso:country":"NU",
+    "lbl:bbox":"-169.87327,-18.99399,-169.83327,-18.95399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Toi"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1293893555,
-    "wof:lastmodified":1564120280,
+    "wof:lastmodified":1566672068,
     "wof:name":"Toi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
