@@ -11,10 +11,14 @@
     "geom:longitude":-169.78333,
     "gn:country":"NU",
     "gn:fcode":"PPL",
-    "gn:pop":71,
+    "gn:population":71,
     "iso:country":"NU",
+    "lbl:bbox":"-169.80333,-19.05333,-169.76333,-19.01333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Liku"
     ],
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":4036255,
         "gp:id":1064260,
-        "qs:id":97117,
+        "qs_pg:id":97117,
         "wd:id":"Q2570188",
         "wk:page":"Liku"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890429423,
-    "wof:lastmodified":1561775178,
+    "wof:lastmodified":1566672070,
     "wof:name":"Liku",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

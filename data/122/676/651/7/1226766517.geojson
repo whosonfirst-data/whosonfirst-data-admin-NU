@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Niue",
     "iso:country":"NU",
+    "lbl:bbox":"-169.84954,-18.98206,-169.80954,-18.94206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mutalau"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226766517,
-    "wof:lastmodified":1564120284,
+    "wof:lastmodified":1566672072,
     "wof:name":"Mutalau",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
